@@ -1,0 +1,47 @@
+{
+   "checksum": "1e944729e758f865052454e782dad267",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13437904745786841",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13437906805468423",
+            "date_last_used": "0",
+            "guid": "afe4401c-7f42-4a4c-ab64-ba3264f90efa",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "o",
+            "type": "url",
+            "url": "https://www.google.com/search?q=st-alpha-20180616-0.8.1.diffst-alpha-20190116-3be4cf1.diffst-alpha-0.8.2.diffst-alpha-0.8.5.diffst-alpha-20240814-a0274bc.diff+what+version+should+iuse&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY1NThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&udm=50&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_k7xB_bJXhWBZp-REbIUHBWLxedDAck1INEqfBz7b3IJztedcG8QabSjapW66ep7_6z78rgKCjmJ05o8ghfDSBokqZHGWZl2fSmtMBMfAbpdhpkaK9yCku-RjY8LwGUDFaAsGvfWHONNlqHJFUYmhRg6fLz9hfP_7qFgmNJL942WmRzikIab7-sGgugLBbx6DXo2jgkA&aep=10&ntc=1&sxsrf=AKL5yDjFEhUeEF9i2JhifL_Pf2rvemvY4A%3A1793432989945&mstk=AUtExfALEvQd4gi2qNeSMZciCmGcHHdNY3-a9I6_WjEDIHye-AcgKJ6UPlPO4cG_SfHqNeZ3Jcmro12CxvGZUw4kTMUdEtUaj9ix7Q52QKiAGyRuHPLSu7D0zr118sf0vJUsKnSVQFhalTY3V0zwErJjjqMgs4bBA-3ISDk&aioh=3&csuir=1&cs=1&mtid=np3lauPkHMCSseMP-pDd6AU"
+         } ],
+         "date_added": "13437904745786841",
+         "date_last_used": "0",
+         "date_modified": "13437906805468423",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13437904745786841",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

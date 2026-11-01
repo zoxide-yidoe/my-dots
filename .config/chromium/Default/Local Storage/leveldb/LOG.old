@@ -1,0 +1,6 @@
+2026/11/01-17:09:59.586 5 Reusing MANIFEST /home/zoxide/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/11/01-17:09:59.590 5 Recovering log #21
+2026/11/01-17:09:59.592 5 Reusing old log /home/zoxide/.config/chromium/Default/Local Storage/leveldb/000021.log 
+2026/11/01-17:16:01.364 9 Level-0 table #25: started
+2026/11/01-17:16:01.371 9 Level-0 table #25: 62363 bytes OK
+2026/11/01-17:16:01.374 9 Delete type=0 #21
