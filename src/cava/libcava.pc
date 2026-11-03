@@ -1,0 +1,9 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include
+Name: libcava
+Description: A lightweight, customizable audio visualizer
+Version: 1.0.0-4-g8d6e963
+Libs: -L\/usr/local/lib -lcava
+Cflags: -I\/usr/local/include/cava -I\/usr/local/include/cava/input -I\/usr/local/include/cava/output
