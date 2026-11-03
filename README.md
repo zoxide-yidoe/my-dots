@@ -28,7 +28,10 @@ doas make install
 
 
 
-using vxwm - https://github.com/wh1tepearll/vxwm
-using picom - https://github.com/yshui/picom
-using for cursor - https://github.com/ful1e5/Bibata_Cursor (modern-classic.tar.xz)
+using vxwm - https://github.com/wh1tepearll/vxwm,
+
+using picom - https://github.com/yshui/picom,
+
+using for cursor - https://github.com/ful1e5/Bibata_Cursor (modern-classic.tar.xz),
+
 using for gtk - https://github.com/4rtzel/Gruvbox-Dark-Yellow
