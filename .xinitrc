@@ -1,5 +1,9 @@
 #!/bin/sh
 
+if [ -z "$DBUS_SESSION_BUS_ADDRESS" ]; then
+  eval "$(dbus-launch --sh-syntax --exit-with-session --exit-with-x11)"
+fi
+
 xrdb merge ~/.Xresources
 xbacklight -set 10 &
 feh --bg-fill ~/Pictures/wall/sta-wall/gruvbox/wall3.png
