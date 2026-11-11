@@ -7,7 +7,7 @@ static const unsigned int borderpx  = 5;        /* border pixel of windows */
 static const unsigned int snap      = 2;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 0;        /* 0 means bottom bar */
-static const char *fonts[]          = {"JetBrains Mono:size=10.5"};
+static const char *fonts[] = {"JetBrainsMono Nerd Font Mono:size=10.5"};
 #define COORDINATES_STYLE "[x%d y%d]" /* The style of coordinates displayed in bar, do not remove %d. */
 
 static MAYBE_CONST char normbgcolor[]     = "#32302f"; /* Slightly lighter dark grey for the bar frame */
